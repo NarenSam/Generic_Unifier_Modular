@@ -1,0 +1,9 @@
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\bin\Debug\Room.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\bin\Debug\Room.pdb
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\bin\Debug\Room.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.Resources.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.Room.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.vbproj.GenerateResource.Cache
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\Room\obj\Debug\Room.pdb

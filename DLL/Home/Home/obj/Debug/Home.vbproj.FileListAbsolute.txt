@@ -1,0 +1,18 @@
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\bin\Debug\Home.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\bin\Debug\Home.pdb
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\bin\Debug\Home.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.homedll.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.Resources.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.vbproj.GenerateResource.Cache
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\Home\obj\Debug\Home.pdb
+D:\Visual Studio Projects\DLL\Home\Home\bin\Debug\Home.dll
+D:\Visual Studio Projects\DLL\Home\Home\bin\Debug\Home.pdb
+D:\Visual Studio Projects\DLL\Home\Home\bin\Debug\Home.xml
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.Resources.resources
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.dll
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.xml
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.pdb
+D:\Visual Studio Projects\DLL\Home\Home\obj\Debug\Home.homedll.resources

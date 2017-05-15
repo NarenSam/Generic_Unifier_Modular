@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Scenario>
+  <Base>DemoBase</Base>
+  <Environment>DemoBase0</Environment>
+  <Scenario_1>
+    <User>naren</User>
+    <Action>enters</Action>
+    <Location>Room0</Location>
+    <Time>Afternoon</Time>
+    <TurnON_Devices>ac1</TurnON_Devices>
+    <TurnOFF_Devices>Fan1</TurnOFF_Devices>
+  </Scenario_1>
+</Scenario>

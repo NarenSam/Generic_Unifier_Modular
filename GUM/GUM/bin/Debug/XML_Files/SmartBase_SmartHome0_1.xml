@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Scenario>
+  <Base>SmartBase</Base>
+  <Environment>SmartHome0</Environment>
+  <Scenario_1>
+    <User>naren</User>
+    <Action>enters</Action>
+    <Location>Room0</Location>
+    <Time>Morning</Time>
+    <TurnON_Devices>Fan1,ac1</TurnON_Devices>
+  </Scenario_1>
+</Scenario>

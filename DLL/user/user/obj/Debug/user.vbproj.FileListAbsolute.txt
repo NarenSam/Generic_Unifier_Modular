@@ -1,0 +1,18 @@
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\bin\Debug\user.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\bin\Debug\user.pdb
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\bin\Debug\user.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.Resources.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.user.resources
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.vbproj.GenerateResource.Cache
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.dll
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.xml
+C:\Users\Trinity\AppData\Local\Temporary Projects\user\obj\Debug\user.pdb
+D:\Visual Studio Projects\DLL\user\user\bin\Debug\user.dll
+D:\Visual Studio Projects\DLL\user\user\bin\Debug\user.pdb
+D:\Visual Studio Projects\DLL\user\user\bin\Debug\user.xml
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.Resources.resources
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.user.resources
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.dll
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.xml
+D:\Visual Studio Projects\DLL\user\user\obj\Debug\user.pdb
